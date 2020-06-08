@@ -43,3 +43,6 @@
 [submodule "3rdparty/benchmark"]
 	path = 3rdparty/benchmark
 	url = https://github.com/google/benchmark.git
+[submodule "frontiers"]
+	path = frontiers
+	url = git@github.com:drmateo/frontiers2020.git
